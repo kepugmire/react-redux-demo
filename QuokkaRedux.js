@@ -118,7 +118,7 @@ function reducer(state, action) {
     }
 }
 let ageAction2 = updateAge(12);
-let state10 = reducer(allObjectsCombined, ageAction2);
+let state11 = reducer(allObjectsCombined, ageAction2);
 state10;
 
 
